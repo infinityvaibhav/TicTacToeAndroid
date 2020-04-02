@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac Toe Game</string>
+    <string name="my_grid_cell">my grid Cell</string>
+    <string name="play_again_button">Play again!</string>
+    <string name="user_has_won">\u0020has won!</string>
+    <string name="match_tie">Match Tie</string>
+    <string name="yellow">Yellow</string>
+    <string name="red">Red</string>
+</resources>

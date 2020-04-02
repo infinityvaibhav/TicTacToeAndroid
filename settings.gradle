@@ -1,0 +1,2 @@
+rootProject.name='Oreo Course1'
+include ':app'
